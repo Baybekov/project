@@ -262,7 +262,7 @@ function rememberMyFilms() {
     }
 }
 
-// rememberMyFilms();
+ rememberMyFilms();
 
 
 
